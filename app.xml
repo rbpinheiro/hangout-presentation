@@ -397,8 +397,8 @@ Reveal.addEventListener( 'customevent', function() {
 
 		</div>
 
-		<script src="lib/js/head.min.js"></script>
-		<script src="js/reveal.js"></script>
+		<script src="https://raw.githubusercontent.com/rbpinheiro/hangout-presentation/master/lib/js/head.min.js"></script>
+		<script src="https://raw.githubusercontent.com/rbpinheiro/hangout-presentation/master/js/reveal.js"></script>
 
 		<script>
 
